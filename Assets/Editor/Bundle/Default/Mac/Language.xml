@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageLanguage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TextObjects>
+   <Text id="Tutorial_Step_1_Music/Sound">
+      <Languages>
+        <Lang Country="Korean">
+          <value>음악/사운드
+            켜기/끄기</value>
+        </Lang>
+        <Lang Country="English">
+          <value>Music/sound
+            on/off</value>
+        </Lang>
+        <Lang Country="Japanese">
+          <value>音楽/サウンド
+            オン/オフ</value>
+        </Lang>
+        <Lang Country="Arabic">
+          <value>الموسيقى / الصوت
+            تشغيل/إيقاف</value>
+        </Lang>
+        <Lang Country="Portuguese">
+          <value>Música / Sonido
+            On/Off</value>
+        </Lang>
+         <Lang Country="Spanish">
+          <value>Música/Som
+            On/Off</value>
+        </Lang>
+        <Lang Country="Chinese">
+          <value>音乐/声音
+            开/关</value>
+        </Lang>
+      </Languages>
+    </Text>
+    <Text id="Tutorial_Step_1_Record">
+      <Languages>
+        <Lang Country="Korean">
+          <value>기록보기</value>
+        </Lang>
+        <Lang Country="English">
+          <value>View Record</value>
+        </Lang>
+        <Lang Country="Japanese">
+          <value>履歴の表示</value>
+        </Lang>
+        <Lang Country="Arabic">
+          <value>امشاهدة تسجيل</value>
+        </Lang>
+        <Lang Country="Portuguese">
+          <value>Ver Registro</value>
+        </Lang>
+         <Lang Country="Spanish">
+          <value>Ver Registro</value>
+        </Lang>
+        <Lang Country="Chinese">
+          <value>点击您刚才看到的图片</value>
+        </Lang>
+      </Languages>
+    </Text>
+    <Text id="Tutorial_Step_1_Ad">
+      <Languages>
+        <Lang Country="Korean">
+          <value>광고없는 버전
+            구입</value>
+        </Lang>
+        <Lang Country="English">
+          <value>Buy ad-free 
+            version</value>
+        </Lang>
+        <Lang Country="Japanese">
+          <value>購入広告なし
+            バージョン</value>
+        </Lang>
+        <Lang Country="Arabic">
+          <value>شراء خالية من الاعلانات
+            الإصدار</value>
+        </Lang>
+        <Lang Country="Portuguese">
+          <value>Comprar livre ad-
+            versão</value>
+        </Lang>
+         <Lang Country="Spanish">
+          <value>Comprar sin publicidad
+            versión</value>
+        </Lang>
+        <Lang Country="Chinese">
+          <value>购买无广告
+            版本</value>
+        </Lang>
+      </Languages>
+    </Text>
+   <Text id="Tutorial_Step_1_Setting">
+      <Languages>
+        <Lang Country="Korean">
+          <value>설정</value>
+        </Lang>
+        <Lang Country="English">
+          <value>Setting</value>
+        </Lang>
+        <Lang Country="Japanese">
+          <value>設定</value>
+        </Lang>
+        <Lang Country="Arabic">
+          <value>ضبط</value>
+        </Lang>
+        <Lang Country="Portuguese">
+          <value>cenário</value>
+        </Lang>
+         <Lang Country="Spanish">
+          <value>ajuste</value>
+        </Lang>
+        <Lang Country="Chinese">
+          <value>环境</value>
+        </Lang>
+      </Languages>
+    </Text>
+    <Text id="Tutorial_Step_1_Gamestart">
+      <Languages>
+        <Lang Country="Korean">
+          <value>게임시작</value>
+        </Lang>
+        <Lang Country="English">
+          <value>Game start</value>
+        </Lang>
+        <Lang Country="Japanese">
+          <value>ゲーム開始</value>
+        </Lang>
+        <Lang Country="Arabic">
+          <value>بدء اللعبة</value>
+        </Lang>
+        <Lang Country="Portuguese">
+          <value>Comece o jogo</value>
+        </Lang>
+         <Lang Country="Spanish">
+          <value>Empezar juego</value>
+        </Lang>
+        <Lang Country="Chinese">
+          <value>开始游戏</value>
+        </Lang>
+      </Languages>
+    </Text>
+    <Text id="Tutorial_Step_3">
+      <Languages>
+        <Lang Country="Korean">
+          <value>방금 봤던 사진을
+            클릭하세요</value>
+        </Lang>
+        <Lang Country="English">
+          <value>Click on the picture
+            you just saw</value>
+        </Lang>
+        <Lang Country="Japanese">
+          <value>先ほど見た写真を
+            クリックしてください</value>
+        </Lang>
+        <Lang Country="Arabic">
+          <value>شاهدت صورة
+            يرجى الضغط</value>
+        </Lang>
+        <Lang Country="Portuguese">
+          <value>Eu só vi uma foto
+            Por favor, clique</value>
+        </Lang>
+         <Lang Country="Spanish">
+          <value>Acabo de ver una foto
+            Por favor haga clic</value>
+        </Lang>
+        <Lang Country="Chinese">
+          <value>我刚才看到一个图
+            请点击</value>
+        </Lang>
+      </Languages>
+    </Text>
+    <Text id="Tutorial_Step_2">
+      <Languages>
+        <Lang Country="Korean">
+          <value>지금부터 나오는 사진을
+            기억하세요!</value>
+        </Lang>
+        <Lang Country="English">
+          <value>From now on, please remember
+            coming out photos!</value>
+        </Lang>
+         <Lang Country="Japanese">
+          <value>今から出てくる写真を覚えて</value>
+        </Lang>
+        <Lang Country="Arabic">
+          <value>من الآن خارج
+            حفظ الصورة</value>
+        </Lang>
+        <Lang Country="Portuguese">
+          <value>A partir de agora fora
+            Lembre-se da foto</value>
+        </Lang>
+        <Lang Country="Spanish">
+          <value>A partir de ahora fuera
+            Recuerde la foto</value>
+        </Lang>
+        <Lang Country="Chinese">
+          <value>从现在出
+            还记得照片</value>
+        </Lang>
+      </Languages>
+    </Text>
+    <Text id="Tutorial_Step_4">
+      <Languages>
+        <Lang Country="Korean">
+          <value>정답!
+            이제 모든 준비가 끝났습니다.
+            즐겁게 즐기세요!</value>
+        </Lang>
+        <Lang Country="English">
+          <value>Correct answer!
+            All is ready now over.
+            Enjoy fun :)</value>
+        </Lang>
+         <Lang Country="Japanese">
+          <value>正解！
+            これで、すべての準備が終わりました。
+            楽しくお楽しみください:)</value>
+        </Lang>
+        <Lang Country="Arabic">
+          <value>االإجابة الصحيحة!
+            كل شيء جاهز الآن أكثر.
+            التمتع متعة :)</value>
+        </Lang>
+        <Lang Country="Portuguese">
+          <value>Resposta correta!
+            Tudo está pronto agora acabou.
+            Divirta-se :)
+          </value>
+        </Lang>
+        <Lang Country="Spanish">
+          <value>Respuesta correcta!
+            Todo está listo ya ha terminado.
+            Disfruta de la diversión :)</value>
+        </Lang>
+        <Lang Country="Chinese">
+          <value>正确答案！
+            一切都准备好已经结束了。
+            享受乐趣:)</value>
+        </Lang>
+      </Languages>
+    </Text>
+  </TextObjects>
+</PackageLanguage>

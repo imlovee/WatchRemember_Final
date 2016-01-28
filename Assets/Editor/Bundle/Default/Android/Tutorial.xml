@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLObjectGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Tutorial">
+  <Sprites>
+    <XMLSprite Name="Sprite_background" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing">
+      <Position X="0" Y="0" />
+      <Size X="2500" Y="3000" />
+      <ColorTint R="0" G="0.156862751" B="0.1764706" A="0.847058833" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_music" AtlasName="Tutorial_Atlas" SpriteName="tutorial_img_tu_music" Type="Simple" Flip="Nothing">
+      <Position X="-600" Y="1172" />
+      <Size X="90" Y="108" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_arrow" AtlasName="Tutorial_Atlas" SpriteName="tutorial_img_point_music" Type="Simple" Flip="Nothing">
+      <Position X="-600" Y="960" />
+      <Size X="128" Y="252" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_record" AtlasName="Tutorial_Atlas" SpriteName="tutorial_img_tu_ranking" Type="Simple" Flip="Nothing">
+      <Position X="-459.530029" Y="1172" />
+      <Size X="90" Y="92" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_arrow" AtlasName="Tutorial_Atlas" SpriteName="tutorial_img_point_ranking" Type="Simple" Flip="Nothing">
+      <Position X="-402" Y="972" />
+      <Size X="230" Y="254" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_arrow" AtlasName="Tutorial_Atlas" SpriteName="tutorial_img_point_noad" Type="Simple" Flip="Nothing">
+      <Position X="-55" Y="1157" />
+      <Size X="228" Y="136" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_noad" AtlasName="Tutorial_Atlas" SpriteName="tutorial_img_tu_noad" Type="Simple" Flip="Nothing">
+      <Position X="-282" Y="1171.99988" />
+      <Size X="186" Y="68" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_setup" AtlasName="Tutorial_Atlas" SpriteName="tutorial_img_tu_setting" Type="Simple" Flip="Nothing">
+      <Position X="599.3" Y="1172" />
+      <Size X="88" Y="88" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_arrow" AtlasName="Tutorial_Atlas" SpriteName="tutorial_img_point_setting" Type="Simple" Flip="Nothing">
+      <Position X="587" Y="972" />
+      <Size X="160" Y="232" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_arrow" AtlasName="Tutorial_Atlas" SpriteName="tutorial_img_point_start" Type="Simple" Flip="Nothing">
+      <Position X="38" Y="-756" />
+      <Size X="164" Y="284" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_finger" AtlasName="Tutorial_Atlas" SpriteName="tutorial_img_shape_hand" Type="Simple" Flip="Nothing">
+      <Position X="60" Y="-1229" />
+      <Size X="380" Y="458" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_background" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing">
+      <Position X="0" Y="0" />
+      <Size X="2500" Y="3000" />
+      <ColorTint R="0" G="0.156862751" B="0.1764706" A="0.847058833" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_next" AtlasName="Tutorial_Atlas" SpriteName="tutorial_btn_tu_next" Type="Sliced" Flip="Nothing">
+      <Position X="0" Y="-97" />
+      <Size X="486" Y="198" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_arrow" AtlasName="Tutorial_Atlas" SpriteName="tutorial_img_btn_arrow" Type="Simple" Flip="Nothing">
+      <Position X="162" Y="0" />
+      <Size X="30" Y="50" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_background" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing">
+      <Position X="0" Y="0" />
+      <Size X="2500" Y="3000" />
+      <ColorTint R="0" G="0.156862751" B="0.1764706" A="0.847058833" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_finger" AtlasName="Tutorial_Atlas" SpriteName="tutorial_img_shape_hand" Type="Simple" Flip="Nothing">
+      <Position X="54" Y="-204" />
+      <Size X="380" Y="458" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_circle" AtlasName="Tutorial_Atlas" SpriteName="tutorial_img_shape_click" Type="Simple" Flip="Nothing">
+      <Position X="0" Y="0" />
+      <Size X="202" Y="202" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_background" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing">
+      <Position X="0" Y="0" />
+      <Size X="2500" Y="3000" />
+      <ColorTint R="0" G="0.156862751" B="0.1764706" A="0.847058833" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_next" AtlasName="Tutorial_Atlas" SpriteName="tutorial_btn_tu_next" Type="Sliced" Flip="Nothing">
+      <Position X="0" Y="-100" />
+      <Size X="486" Y="198" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_arrow" AtlasName="Tutorial_Atlas" SpriteName="tutorial_img_btn_arrow" Type="Simple" Flip="Nothing">
+      <Position X="162" Y="0" />
+      <Size X="30" Y="50" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+  </Sprites>
+  <Labels>
+    <XMLLabel Name="Label_music" FontName="NotoSans" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="-527" Y="696" />
+      <Size X="534" Y="248" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_record" FontName="NotoSans" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="-30" Y="849" />
+      <Size X="534" Y="180" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_buyad" FontName="NotoSans" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="270" Y="1047" />
+      <Size X="534" Y="180" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_setting" FontName="NotoSans" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="461" Y="783" />
+      <Size X="534" Y="180" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_start" FontName="NotoSans" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="-265" Y="-615" />
+      <Size X="534" Y="248" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_msg" FontName="NotoSans" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="0" Y="435" />
+      <Size X="1440" Y="530" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_next" FontName="NotoSans" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="-28" Y="0" />
+      <Size X="410" Y="180" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label" FontName="NotoSans" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="10" Y="400" />
+      <Size X="1096" Y="438" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label" FontName="NotoSans" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="10" Y="400" />
+      <Size X="1440" Y="530" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_next" FontName="NotoSans" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="-28" Y="0" />
+      <Size X="410" Y="180" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLLabel>
+  </Labels>
+</XMLObjectGroup>

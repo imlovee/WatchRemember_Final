@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLObjectGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="GamePopup">
+  <Sprites>
+    <XMLSprite Name="Sprite_bestScore" AtlasName="GamePopup_Atlas" SpriteName="game_popup_text_bestscore" Type="Simple" Flip="Nothing">
+      <Position X="-203.000473" Y="135.720825" />
+      <Size X="488" Y="146" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_best" AtlasName="GamePopup_Atlas" SpriteName="game_popup_img_sidebestscore" Type="Simple" Flip="Nothing">
+      <Position X="487.538757" Y="116.720856" />
+      <Size X="112" Y="116" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_background" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing">
+      <Position X="0" Y="0" />
+      <Size X="2000" Y="3000" />
+      <ColorTint R="0" G="0.156862751" B="0.1764706" A="0.847058833" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_continue" AtlasName="GamePopup_Atlas" SpriteName="game_popup_btn_continue" Type="Simple" Flip="Nothing">
+      <Position X="485" Y="-5000" />
+      <Size X="282" Y="290" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_record" AtlasName="GamePopup_Atlas" SpriteName="game_popup_btn_bestscore" Type="Simple" Flip="Nothing">
+      <Position X="300" Y="-1285" />
+      <Size X="262" Y="276" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_main" AtlasName="GamePopup_Atlas" SpriteName="game_popup_btn_home" Type="Simple" Flip="Nothing">
+      <Position X="-300" Y="-1285" />
+      <Size X="262" Y="276" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_totalScore" AtlasName="GamePopup_Atlas" SpriteName="game_popup_text_totalscore" Type="Simple" Flip="Nothing">
+      <Position X="-203.000473" Y="113.767685" />
+      <Size X="436" Y="102" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing">
+      <Position X="10.52362" Y="5.34355736" />
+      <Size X="1024" Y="677" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_gameOver" AtlasName="GamePopup_Atlas" SpriteName="game_popup_gameover" Type="Simple" Flip="Nothing">
+      <Position X="-9.476568" Y="-295.845123" />
+      <Size X="1450" Y="396" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_cash" AtlasName="GamePopup_Atlas" SpriteName="game_popup_img_end_cash" Type="Simple" Flip="Nothing">
+      <Position X="-203" Y="114" />
+      <Size X="454" Y="104" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_logo" AtlasName="GamePopup_Atlas" SpriteName="game_popup_img_end_logofacebook" Type="Simple" Flip="Nothing">
+      <Position X="-265.667" Y="113.986694" />
+      <Size X="104" Y="198" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_fb" AtlasName="GamePopup_Atlas" SpriteName="game_popup_btn_end_share" Type="Simple" Flip="Nothing">
+      <Position X="70.50009" Y="113.986694" />
+      <Size X="412" Y="138" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_bestScore" AtlasName="GamePopup_Atlas" SpriteName="game_popup_text_bestscore" Type="Simple" Flip="Nothing">
+      <Position X="-203.000473" Y="135.720825" />
+      <Size X="488" Y="146" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_best" AtlasName="GamePopup_Atlas" SpriteName="game_popup_img_sidebestscore" Type="Simple" Flip="Nothing">
+      <Position X="487.538757" Y="116.720856" />
+      <Size X="112" Y="116" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_background" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing">
+      <Position X="0" Y="0" />
+      <Size X="2000" Y="3000" />
+      <ColorTint R="0" G="0.156862751" B="0.1764706" A="0.847058833" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_record" AtlasName="GamePopup_Atlas" SpriteName="game_popup_btn_bestscore" Type="Simple" Flip="Nothing">
+      <Position X="385.64" Y="-1285" />
+      <Size X="262" Y="276" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_main" AtlasName="GamePopup_Atlas" SpriteName="game_popup_btn_home" Type="Simple" Flip="Nothing">
+      <Position X="-300" Y="-1285" />
+      <Size X="262" Y="276" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_totalScore" AtlasName="GamePopup_Atlas" SpriteName="game_popup_text_totalscore" Type="Simple" Flip="Nothing">
+      <Position X="-203.000473" Y="113.767685" />
+      <Size X="436" Y="102" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_congra" AtlasName="GamePopup_Atlas" SpriteName="img_congratulation" Type="Simple" Flip="Nothing">
+      <Position X="17" Y="269" />
+      <Size X="1120" Y="496" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing">
+      <Position X="10.52362" Y="5.34355736" />
+      <Size X="1024" Y="677" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_gameOver" AtlasName="GamePopup_Atlas" SpriteName="img_packageclear" Type="Simple" Flip="Nothing">
+      <Position X="-9" Y="-296" />
+      <Size X="1450" Y="355" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_cash" AtlasName="GamePopup_Atlas" SpriteName="game_popup_img_end_cash" Type="Simple" Flip="Nothing">
+      <Position X="-203" Y="114" />
+      <Size X="454" Y="104" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_logo" AtlasName="GamePopup_Atlas" SpriteName="game_popup_img_end_logofacebook" Type="Simple" Flip="Nothing">
+      <Position X="-265.667" Y="113.986694" />
+      <Size X="104" Y="198" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_fb" AtlasName="GamePopup_Atlas" SpriteName="game_popup_btn_end_share" Type="Simple" Flip="Nothing">
+      <Position X="70.50009" Y="113.986694" />
+      <Size X="412" Y="138" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+  </Sprites>
+  <Labels>
+    <XMLLabel Name="Label_bestScore" FontName="ShowcardGothic" FontStyle="Normal" Align="Center" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="239.000275" Y="124.720856" />
+      <Size X="380" Y="200" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0.996078432" G="0.968627453" B="0.65882355" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_totalScore" FontName="ShowcardGothic" FontStyle="Normal" Align="Center" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="239.000275" Y="102.7677" />
+      <Size X="380" Y="200" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_cash" FontName="ShowcardGothic" FontStyle="Normal" Align="Center" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="239.000275" Y="102.7677" />
+      <Size X="380" Y="200" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0.807843149" G="0.992156863" B="0.6745098" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_bestScore" FontName="ShowcardGothic" FontStyle="Normal" Align="Center" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="239.000275" Y="124.720856" />
+      <Size X="380" Y="200" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0.996078432" G="0.968627453" B="0.65882355" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_totalScore" FontName="ShowcardGothic" FontStyle="Normal" Align="Center" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="239.000275" Y="102.7677" />
+      <Size X="380" Y="200" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_cash" FontName="ShowcardGothic" FontStyle="Normal" Align="Center" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="239.000275" Y="102.7677" />
+      <Size X="380" Y="200" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0.807843149" G="0.992156863" B="0.6745098" A="1" />
+    </XMLLabel>
+  </Labels>
+</XMLObjectGroup>

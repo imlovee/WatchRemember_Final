@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLObjectGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Popup">
+  <Sprites>
+    <XMLSprite Name="Sprite_background" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="0" />
+      <Size X="2500" Y="3000" />
+      <ColorTint R="0" G="0.156862751" B="0.1764706" A="0.847058833" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_yes" AtlasName="Popup_Atlas" SpriteName="popup_btn_yes" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="5" Y="38" />
+      <Size X="466" Y="188" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_no" AtlasName="Popup_Atlas" SpriteName="popup_quit_btn_no" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="5" Y="-352" />
+      <Size X="456" Y="194" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_title" AtlasName="Popup_Atlas" SpriteName="popup_quit" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="400" />
+      <Size X="322" Y="142" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_close" AtlasName="Popup_Atlas" SpriteName="popup_Deep_Close" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="600" Y="1145" />
+      <Size X="120" Y="120" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_background" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="0" />
+      <Size X="2500" Y="3000" />
+      <ColorTint R="0" G="0.156862751" B="0.1764706" A="0.847058833" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_leaderboard" AtlasName="Popup_Atlas" SpriteName="popup_leaderboard" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="151" />
+      <Size X="254" Y="212" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_Achievement" AtlasName="Popup_Atlas" SpriteName="Popup_Record_btn_achievement" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="-260" />
+      <Size X="206" Y="274" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_close" AtlasName="Popup_Atlas" SpriteName="popup_Deep_Close" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="600" Y="1145" />
+      <Size X="120" Y="120" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_background" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="0" />
+      <Size X="2500" Y="3000" />
+      <ColorTint R="0" G="0.156862751" B="0.1764706" A="0.847058833" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_text" AtlasName="Popup_Atlas" SpriteName="popup_credits" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="-43" Y="-79" />
+      <Size X="928" Y="2048" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_popup_back" AtlasName="Popup_Atlas" SpriteName="img_pop" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="0" />
+      <Size X="800" Y="632" />
+      <ColorTint R="1" G="1" B="1" A="0.847058833" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_OK" AtlasName="Popup_Atlas" SpriteName="img_pop_btn_yes" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="0" Y="-160" />
+      <Size X="328" Y="124" />
+      <ColorTint R="0.5764706" G="0.8588236" B="0.450980425" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_background_out" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="0" />
+      <Size X="2800" Y="3000" />
+      <ColorTint R="0.352941155" G="0.352941155" B="0.352941155" A="0.909" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_message_img" AtlasName="Popup_Atlas" SpriteName="img_success" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="237" Y="56" />
+      <Size X="128" Y="104" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_Close" AtlasName="Popup_Atlas" SpriteName="pop_btn_close" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="368" Y="294" />
+      <Size X="124" Y="124" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_close" AtlasName="Popup_Atlas" SpriteName="popup_Deep_Close" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="600" Y="1145" />
+      <Size X="120" Y="120" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_background" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="0" />
+      <Size X="2500" Y="3000" />
+      <ColorTint R="0" G="0.156862751" B="0.1764706" A="0.847058833" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_restore" AtlasName="Popup_Atlas" SpriteName="popup_btn_restore_purchases" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="0" Y="316" />
+      <Size X="632" Y="98" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_newdayx" AtlasName="Common_Atlas" SpriteName="common_newdayx_logo" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="0" Y="0" />
+      <Size X="528" Y="180" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_credits" AtlasName="Popup_Atlas" SpriteName="popup_setup_btn_credits" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="0" Y="-350" />
+      <Size X="340" Y="64" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_tutorial" AtlasName="Popup_Atlas" SpriteName="popup_howtoplay" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="0" Y="581" />
+      <Size X="462" Y="88" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_popup_background" AtlasName="Popup_Atlas" SpriteName="img_pop" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="0" />
+      <Size X="800" Y="632" />
+      <ColorTint R="1" G="1" B="1" A="0.847058833" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_NO" AtlasName="Popup_Atlas" SpriteName="btn_pop_white" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="0" Y="-160" />
+      <Size X="328" Y="124" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_background_out" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="0" />
+      <Size X="2800" Y="3000" />
+      <ColorTint R="0.352941155" G="0.352941155" B="0.352941155" A="0.909" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_YES" AtlasName="Popup_Atlas" SpriteName="img_pop_btn_yes" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="0" Y="-13" />
+      <Size X="328" Y="124" />
+      <ColorTint R="0.5764706" G="0.8588236" B="0.450980425" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_Close" AtlasName="Popup_Atlas" SpriteName="pop_btn_close" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="368" Y="294" />
+      <Size X="124" Y="124" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_Close" AtlasName="Popup_Atlas" SpriteName="pop_btn_close" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="368" Y="294" />
+      <Size X="124" Y="124" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_popup_background" AtlasName="Popup_Atlas" SpriteName="img_pop" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="0" />
+      <Size X="800" Y="632" />
+      <ColorTint R="1" G="1" B="1" A="0.847058833" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_cash" AtlasName="Popup_Atlas" SpriteName="btn_pop_white" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="0" Y="-160" />
+      <Size X="328" Y="124" />
+      <ColorTint R="0.5764706" G="0.862745166" B="0.450980425" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_cash_icon" AtlasName="Popup_Atlas" SpriteName="ico_cash" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="112" Y="-15" />
+      <Size X="48" Y="66" />
+      <ColorTint R="0.121568628" G="0.4" B="0" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_background_out" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="0" />
+      <Size X="2800" Y="3000" />
+      <ColorTint R="0.352941155" G="0.352941155" B="0.352941155" A="0.909" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_money" AtlasName="Popup_Atlas" SpriteName="img_pop_btn_yes" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="0" Y="-13" />
+      <Size X="328" Y="124" />
+      <ColorTint R="0.5764706" G="0.862745166" B="0.450980425" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_popup_background" AtlasName="Popup_Atlas" SpriteName="img_pop" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="0" />
+      <Size X="800" Y="632" />
+      <ColorTint R="1" G="1" B="1" A="0.847058833" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_OK" AtlasName="Popup_Atlas" SpriteName="img_pop_btn_yes" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="0" Y="-160" />
+      <Size X="328" Y="124" />
+      <ColorTint R="0.5411765" G="0.7843138" B="0.435294151" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_background_out" AtlasName="Common_Atlas" SpriteName="common_box" Type="Sliced" Flip="Nothing" Depth="0">
+      <Position X="0" Y="0" />
+      <Size X="2800" Y="3000" />
+      <ColorTint R="0.352941155" G="0.352941155" B="0.352941155" A="0.909" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_message_img" AtlasName="Popup_Atlas" SpriteName="ico_cash" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="193" Y="-14" />
+      <Size X="48" Y="66" />
+      <ColorTint R="0.9254902" G="0.141176477" B="0.152941182" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_btn_Close" AtlasName="Popup_Atlas" SpriteName="pop_btn_close" Type="Simple" Flip="Nothing" Depth="0">
+      <Position X="368" Y="294" />
+      <Size X="124" Y="124" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+  </Sprites>
+  <Labels>
+    <XMLLabel Name="Label_message" FontName="NANUMBARUNPENB" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="-62" Y="57" />
+      <Size X="672" Y="188" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0.466666669" G="0.8862745" B="0.7058824" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_ok" FontName="NANUMBARUNPENB" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="2" Y="-160" />
+      <Size X="328" Y="124" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0" G="0.156862751" B="0.1764706" A="0.847058833" />
+    </XMLLabel>
+    <XMLLabel Name="Label_message" FontName="NANUMBARUNPENB" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="0" Y="143" />
+      <Size X="672" Y="188" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0.466666669" G="0.8862745" B="0.7058824" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_no" FontName="NANUMBARUNPENB" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="0" Y="-8" />
+      <Size X="328" Y="124" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0" G="0.156862751" B="0.1764706" A="0.847058833" />
+    </XMLLabel>
+    <XMLLabel Name="Label_yes" FontName="NANUMBARUNPENB" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="0.0009762229" Y="-7" />
+      <Size X="328" Y="124" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0" G="0.156862751" B="0.1764706" A="0.847058833" />
+    </XMLLabel>
+    <XMLLabel Name="Label_message" FontName="NANUMBARUNPENB" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="0" Y="143" />
+      <Size X="672" Y="188" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0.466666669" G="0.8862745" B="0.7058824" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_cash" FontName="NANUMBARUNPENB" FontStyle="Normal" Align="Right" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="-43" Y="-4" />
+      <Size X="238" Y="132" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0.121568628" G="0.4" B="0" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_money" FontName="NANUMBARUNPENB" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="0.0009762229" Y="0" />
+      <Size X="328" Y="124" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0.121568628" G="0.4" B="0" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_message" FontName="NANUMBARUNPENB" FontStyle="Normal" Align="Center" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="-4" Y="185" />
+      <Size X="536" Y="184" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0.9254902" G="0.141176477" B="0.152941182" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_ok" FontName="NANUMBARUNPENB" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="2" Y="-160" />
+      <Size X="328" Y="124" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0" G="0.156862751" B="0.1764706" A="0.847058833" />
+    </XMLLabel>
+    <XMLLabel Name="Label_message_cash" FontName="NANUMBARUNPENB" FontStyle="Normal" Align="Right" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="-55" Y="1" />
+      <Size X="434" Y="184" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0" B="0" A="1" />
+      <EffectDistance X="1" Y="1" />
+      <ColorTint R="0.9254902" G="0.141176477" B="0.152941182" A="1" />
+    </XMLLabel>
+  </Labels>
+</XMLObjectGroup>

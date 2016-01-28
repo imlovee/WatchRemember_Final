@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameLevelList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <gameLevels>
+    <GameLevel>
+      <Name>Level 1</Name>
+      <No>1</No>
+      <StageCount>10</StageCount>
+      <DelayTime>0.5</DelayTime>
+      <CountDown>5</CountDown>
+      <ImageCount>3</ImageCount>
+      <ClearScore>100</ClearScore>
+      <ClearCashPoint>10</ClearCashPoint>
+    </GameLevel>
+    <GameLevel>
+      <Name>Level 2</Name>
+      <No>2</No>
+      <StageCount>10</StageCount>
+      <DelayTime>0.475</DelayTime>
+      <CountDown>5</CountDown>
+      <ImageCount>3</ImageCount>
+      <ClearScore>200</ClearScore>
+      <ClearCashPoint>20</ClearCashPoint>
+    </GameLevel>
+    <GameLevel>
+      <Name>Level 3</Name>
+      <No>3</No>
+      <StageCount>10</StageCount>
+      <DelayTime>0.45</DelayTime>
+      <CountDown>5</CountDown>
+      <ImageCount>4</ImageCount>
+      <ClearScore>300</ClearScore>
+      <ClearCashPoint>30</ClearCashPoint>
+    </GameLevel>
+    <GameLevel>
+      <Name>Level 4</Name>
+      <No>4</No>
+      <StageCount>10</StageCount>
+      <DelayTime>0.425</DelayTime>
+      <CountDown>5</CountDown>
+      <ImageCount>4</ImageCount>
+      <ClearScore>400</ClearScore>
+      <ClearCashPoint>40</ClearCashPoint>
+    </GameLevel>
+    <GameLevel>
+      <Name>Level 5</Name>
+      <No>5</No>
+      <StageCount>10</StageCount>
+      <DelayTime>0.4</DelayTime>
+      <CountDown>5</CountDown>
+      <ImageCount>5</ImageCount>
+      <ClearScore>500</ClearScore>
+      <ClearCashPoint>50</ClearCashPoint>
+    </GameLevel>
+    <GameLevel>
+      <Name>Level 6</Name>
+      <No>6</No>
+      <StageCount>10</StageCount>
+      <DelayTime>0.375</DelayTime>
+      <CountDown>5</CountDown>
+      <ImageCount>5</ImageCount>
+      <ClearScore>600</ClearScore>
+      <ClearCashPoint>60</ClearCashPoint>
+    </GameLevel>
+    <GameLevel>
+      <Name>Level 7</Name>
+      <No>7</No>
+      <StageCount>10</StageCount>
+      <DelayTime>0.35</DelayTime>
+      <CountDown>5</CountDown>
+      <ImageCount>6</ImageCount>
+      <ClearScore>700</ClearScore>
+      <ClearCashPoint>70</ClearCashPoint>
+    </GameLevel>
+    <GameLevel>
+      <Name>Level 8</Name>
+      <No>8</No>
+      <StageCount>10</StageCount>
+      <DelayTime>0.325</DelayTime>
+      <CountDown>5</CountDown>
+      <ImageCount>6</ImageCount>
+      <ClearScore>800</ClearScore>
+      <ClearCashPoint>80</ClearCashPoint>
+    </GameLevel>
+    <GameLevel>
+      <Name>Level 9</Name>
+      <No>9</No>
+      <StageCount>10</StageCount>
+      <DelayTime>0.3</DelayTime>
+      <CountDown>5</CountDown>
+      <ImageCount>7</ImageCount>
+      <ClearScore>900</ClearScore>
+      <ClearCashPoint>90</ClearCashPoint>
+    </GameLevel>
+    <GameLevel>
+      <Name>Level 10</Name>
+      <No>10</No>
+      <StageCount>10</StageCount>
+      <DelayTime>0.275</DelayTime>
+      <CountDown>5</CountDown>
+      <ImageCount>7</ImageCount>
+      <ClearScore>1000</ClearScore>
+      <ClearCashPoint>100</ClearCashPoint>
+    </GameLevel>
+  </gameLevels>
+</GameLevelList>

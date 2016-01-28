@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLObjectGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Effect">
+  <Sprites>
+    <XMLSprite Name="Sprite_msg_1" AtlasName="Effect_Atlas" SpriteName="effect_clear_2_good" Type="Simple" Flip="Nothing">
+      <Position X="0" Y="0" />
+      <Size X="478" Y="456" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_msg_2" AtlasName="Effect_Atlas" SpriteName="effect_clear_2_good" Type="Simple" Flip="Nothing">
+      <Position X="0" Y="0" />
+      <Size X="478" Y="456" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_msg_3" AtlasName="Effect_Atlas" SpriteName="effect_clear_3_nice" Type="Simple" Flip="Nothing">
+      <Position X="0" Y="0" />
+      <Size X="684" Y="548" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_msg_4" AtlasName="Effect_Atlas" SpriteName="effect_clear_4_best" Type="Simple" Flip="Nothing">
+      <Position X="0" Y="0" />
+      <Size X="854" Y="646" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_msg_5" AtlasName="Effect_Atlas" SpriteName="effect_clear_5_amazing" Type="Simple" Flip="Nothing">
+      <Position X="0" Y="0" />
+      <Size X="1207" Y="818" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_levelup" AtlasName="Effect_Atlas" SpriteName="effect_img_levelup" Type="Simple" Flip="Nothing">
+      <Position X="0" Y="0" />
+      <Size X="1024" Y="208" />
+      <ColorTint R="1" G="1" B="1" A="0" />
+    </XMLSprite>
+    <XMLSprite Name="Sprite_bg" AtlasName="Effect_Atlas" SpriteName="effect_background" Type="Simple" Flip="Nothing">
+      <Position X="0" Y="0" />
+      <Size X="1728" Y="3072" />
+      <ColorTint R="1" G="1" B="1" A="1" />
+    </XMLSprite>
+  </Sprites>
+  <Labels>
+    <XMLLabel Name="Label" FontName="ShowcardGothic" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="None" EffSpacingX="0" EffSpacingY="0">
+      <Position X="269" Y="705" />
+      <Size X="300" Y="200" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0" G="0.466666669" B="0.266666681" A="1" />
+      <EffectDistance X="10" Y="10" />
+      <ColorTint R="1" G="1" B="1" A="0.490196079" />
+    </XMLLabel>
+    <XMLLabel Name="Label_levelup" FontName="ShowcardGothic" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="Outline8" EffSpacingX="0" EffSpacingY="0">
+      <Position X="400" Y="250" />
+      <Size X="500" Y="400" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0.996078432" G="0.266666681" B="0.286274523" A="1" />
+      <EffectDistance X="20" Y="20" />
+      <ColorTint R="1" G="0.972549" B="0.65882355" A="1" />
+    </XMLLabel>
+    <XMLLabel Name="Label_combo" FontName="ShowcardGothic" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="Outline8" EffSpacingX="0" EffSpacingY="0">
+      <Position X="437" Y="-22" />
+      <Size X="572" Y="400" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0.996078432" G="0.493035883" B="0.2666667" A="1" />
+      <EffectDistance X="10" Y="10" />
+      <ColorTint R="1" G="0.972549" B="0.65882355" A="0" />
+    </XMLLabel>
+    <XMLLabel Name="Label_levelup_cash" FontName="ShowcardGothic" FontStyle="Normal" Align="Automatic" UseGradient="false" EffStyle="Outline8" EffSpacingX="0" EffSpacingY="0">
+      <Position X="-100" Y="250" />
+      <Size X="500" Y="400" />
+      <GradientTop R="1" G="1" B="1" A="1" />
+      <GradientBottom R="0.7" G="0.7" B="0.7" A="1" />
+      <EffectColor R="0.1882353" G="0.509803951" B="0.2509804" A="1" />
+      <EffectDistance X="20" Y="20" />
+      <ColorTint R="0.8" G="0.996078432" B="0.68235296" A="1" />
+    </XMLLabel>
+  </Labels>
+</XMLObjectGroup>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLFontGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FontNames>
+    <string>ShowcardGothic</string>
+    <string>ClassProjectNBPMEDIUM</string>
+    <string>NANUMBARUNGOTHICBOLD</string>
+    <string>NANUMBARUNPENB</string>
+    <string>NotoSans</string>
+  </FontNames>
+</XMLFontGroup>
